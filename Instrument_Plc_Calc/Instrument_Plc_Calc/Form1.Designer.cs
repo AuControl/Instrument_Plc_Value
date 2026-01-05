@@ -134,9 +134,9 @@ partial class Form1
         spanValue.Location = new System.Drawing.Point(97, 163);
         spanValue.Margin = new System.Windows.Forms.Padding(3, 0, 3, 10);
         spanValue.Name = "spanValue";
-        spanValue.Size = new System.Drawing.Size(80, 17);
+        spanValue.Size = new System.Drawing.Size(39, 17);
         spanValue.TabIndex = 12;
-        spanValue.Text = "INT / WORD";
+        spanValue.Text = "100.0";
         // 
         // URV
         // 
